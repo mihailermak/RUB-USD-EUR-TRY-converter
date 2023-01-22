@@ -1,4 +1,4 @@
-# RUB-USD-EUR-TRY.converter
+# RUB-USD-EUR-TRY-converter
 [Eng] Python program for converting RUB to USD to EUR in TRY
 - How to install?
 - For the program to work correctly, you need to install python and the Currency Converter module. For python download go to: https://www.python.org and click donwload. For Currency Converter module dowload copy: ***pip install CurrencyConverter***
